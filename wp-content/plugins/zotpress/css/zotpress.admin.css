@@ -80,7 +80,7 @@ div#zp-Zotpress ul {
 }
 div#zp-Setup ul li,
 div#zp-Zotpress ul li {
-    background: url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat -40px -60px;
+    background: url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat -40px -60px;
     padding-left: 15px;
     margin-left: 5px;
     margin-bottom: 10px;
@@ -245,7 +245,7 @@ div#zp-Step-Import-Collection {
     height: 13.5em;
 }
 div#zp-Step-Import-Collection.loading {
-    background: #f9f9f9 url('/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat center;
+    background: #f9f9f9 url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat center;
 }
 div#zp-Step-Import-Collection iframe {
     width: 100%;
@@ -291,7 +291,7 @@ div.zp-Loading-Container.selective {
     padding-top: 0;
 }
 div.zp-Loading-Initial.zp-Loading-Import {
-    background: transparent url('/wp-content/plugins/zotpress/images/loading_import.gif') no-repeat 0 6px;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_import.gif') no-repeat 0 6px;
     display: none;
     float: left;
     margin: 0;
@@ -388,7 +388,7 @@ form#zp-Add label {
     width: 20%;
 }
 form#zp-Add label.required {
-    background: url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -36px;
+    background: url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -36px;
     padding-left: 15px;
     margin-left: -15px;
 }
@@ -437,7 +437,7 @@ form#zp-Add div.message {
     width: 100%;
 }
 div.zp-Loading {
-    background: transparent url('/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat center;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat center;
     display: none;
     float: right;
     letter-spacing: -1000px;
@@ -456,11 +456,11 @@ div.zp-Success {
     padding-left: 35px;
 }
 div.zp-Errors {
-    background: url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -139px;
+    background: url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -139px;
     color: #990033;
 }
 div.zp-Success {
-    background: url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -76px;
+    background: url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -76px;
     color: #009966;
 }
 div.zp-Errors p,
@@ -475,7 +475,7 @@ div.zp-Success p {
 /* START OF LOADING CSS */
 
 div.zp-Loading-Initial {
-    background: transparent url('/wp-content/plugins/zotpress/images/loading_initial.gif') no-repeat -3px 10px;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_initial.gif') no-repeat -3px 10px;
     margin: 0;
     padding: 0;
     width: 220px;
@@ -722,7 +722,7 @@ div.zp-Browse-Account-Options {
     content: "\f155";
 }
 .zp-Browse-Account-Default.loading:before {
-    background-image: url("/wp-content/plugins/zotpress/images/loading_default.gif") !important;
+    background-image: url("/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif") !important;
     background-repeat: no-repeat;
     background-position: center !important;
     height: 1.5rem;
@@ -780,7 +780,7 @@ div.zp-Collection-Title .item_key {
     top: 0;
     right: 0;
 
-    background: transparent url('/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat right top;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif') no-repeat right top;
     font-size: 0.8em;
     text-transform: uppercase;
     margin-right: 30px;
@@ -1126,7 +1126,7 @@ a.zp-AddAccountButton span.dashicons {
     margin-right: 0.3em;
     padding-bottom: 3px;
     vertical-align: middle;
-    /* background: transparent url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -351px; */
+    /* background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat 0 -351px; */
     /* padding: 0 2px 0 16px; */
 }
 a.zp-AddAccountButton:hover {
@@ -1233,7 +1233,7 @@ a.zp-AddAccountButton:active span.dashicons {
     content: " ";
     white-space: pre;
     background-position: 0 center !important;
-    background-image: url('/wp-content/plugins/zotpress/images/loading_default.gif');
+    background-image: url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif');
     background-repeat: no-repeat;
     width: 18px;
     display: inline-block;
@@ -1249,7 +1249,7 @@ a.zp-AddAccountButton:active span.dashicons {
 }
 #zp-AccountsList .default a.default.loading {
     background-position: 4px center !important;
-    background-image: url('/wp-content/plugins/zotpress/images/loading_default.gif');
+    background-image: url('/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif');
     background-repeat: no-repeat;
 }
 #zp-AccountsList .default a.default.loading:before {

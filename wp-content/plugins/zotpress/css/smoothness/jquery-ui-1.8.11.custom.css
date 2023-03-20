@@ -70,20 +70,20 @@
 /* Interaction states
 ----------------------------------*/
 /* #ZotpressMetaBox .ui-state-default, #ZotpressMetaBox .ui-widget-content .ui-state-default, #ZotpressMetaBox .ui-widget-header .ui-state-default { border: none; background: #fff; color: #222; float: left; margin: 0; padding: 8px 4px; } */
-/* #ZotpressMetaBox .ui-state-default:before, #ZotpressMetaBox .ui-widget-content .ui-state-default:before, #ZotpressMetaBox .ui-widget-header .ui-state-default:before { content: " "; display: block; background: url('/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png') -111px 335px; width: 20px; height: 14px; float: left; } */
+/* #ZotpressMetaBox .ui-state-default:before, #ZotpressMetaBox .ui-widget-content .ui-state-default:before, #ZotpressMetaBox .ui-widget-header .ui-state-default:before { content: " "; display: block; background: url('/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png') -111px 335px; width: 20px; height: 14px; float: left; } */
 #ZotpressMetaBox .ui-state-default a, #ZotpressMetaBox .ui-state-default a:link, #ZotpressMetaBox .ui-state-default a:visited { color: #555555; text-decoration: none; }
 #ZotpressMetaBox .ui-state-hover, #ZotpressMetaBox .ui-widget-content .ui-state-hover, #ZotpressMetaBox .ui-widget-header .ui-state-hover, #ZotpressMetaBox .ui-state-focus, #ZotpressMetaBox .ui-widget-content .ui-state-focus, #ZotpressMetaBox .ui-widget-header .ui-state-focus { }
 #ZotpressMetaBox .ui-state-hover a, #ZotpressMetaBox .ui-state-hover a:hover { color: #212121; text-decoration: none; }
 /* #ZotpressMetaBox .ui-state-active, #ZotpressMetaBox .ui-widget-content .ui-state-active, #ZotpressMetaBox .ui-widget-header .ui-state-active { border: none; background: #ffffff; color: #222; } */
-/* #ZotpressMetaBox .ui-state-active:before, #ZotpressMetaBox .ui-widget-content .ui-state-active:before, #ZotpressMetaBox .ui-widget-header .ui-state-active:before { content: " "; display: block; background: url('/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png') -206px 287px; width: 20px; height: 14px; float: left; } */
+/* #ZotpressMetaBox .ui-state-active:before, #ZotpressMetaBox .ui-widget-content .ui-state-active:before, #ZotpressMetaBox .ui-widget-header .ui-state-active:before { content: " "; display: block; background: url('/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png') -206px 287px; width: 20px; height: 14px; float: left; } */
 #ZotpressMetaBox .ui-state-active a, #ZotpressMetaBox .ui-state-active a:link, #ZotpressMetaBox .ui-state-active a:visited, #ZotpressMetaBox .ui-state-active a:focus { color: #212121; text-decoration: none;  }
 #ZotpressMetaBox .ui-widget :active, #ZotpressMetaBox .ui-widget :focus { outline: none; box-shadow: none; }
 
 /* Interaction Cues
 ----------------------------------*/
-#ZotpressMetaBox .ui-state-highlight, #ZotpressMetaBox .ui-widget-content .ui-state-highlight, #ZotpressMetaBox .ui-widget-header .ui-state-highlight  {border: 1px solid #fcefa1; background: #fbf9ee url(/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x; color: #363636; }
+#ZotpressMetaBox .ui-state-highlight, #ZotpressMetaBox .ui-widget-content .ui-state-highlight, #ZotpressMetaBox .ui-widget-header .ui-state-highlight  {border: 1px solid #fcefa1; background: #fbf9ee url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x; color: #363636; }
 #ZotpressMetaBox .ui-state-highlight a, #ZotpressMetaBox .ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a { color: #363636; }
-#ZotpressMetaBox .ui-state-error, #ZotpressMetaBox .ui-widget-content .ui-state-error, #ZotpressMetaBox .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #fef1ec url(/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x; color: #cd0a0a; }
+#ZotpressMetaBox .ui-state-error, #ZotpressMetaBox .ui-widget-content .ui-state-error, #ZotpressMetaBox .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #fef1ec url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x; color: #cd0a0a; }
 #ZotpressMetaBox .ui-state-error a, #ZotpressMetaBox .ui-widget-content .ui-state-error a, #ZotpressMetaBox .ui-widget-header .ui-state-error a { color: #cd0a0a; }
 #ZotpressMetaBox .ui-state-error-text, #ZotpressMetaBox .ui-widget-content .ui-state-error-text, #ZotpressMetaBox .ui-widget-header .ui-state-error-text { color: #cd0a0a; }
 #ZotpressMetaBox .ui-priority-primary, #ZotpressMetaBox .ui-widget-content .ui-priority-primary, #ZotpressMetaBox .ui-widget-header .ui-priority-primary { font-weight: bold; }
@@ -94,14 +94,14 @@
 ----------------------------------*/
 
 /* states and images */
-#ZotpressMetaBox .ui-icon { width: 16px; height: 16px; background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
-#ZotpressMetaBox .ui-widget-content .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
-#ZotpressMetaBox .ui-widget-header .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
-#ZotpressMetaBox .ui-state-default .ui-icon { background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_888888_256x240.png); }
-#ZotpressMetaBox .ui-state-hover .ui-icon, #ZotpressMetaBox .ui-state-focus .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_454545_256x240.png); }
-#ZotpressMetaBox .ui-state-active .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_454545_256x240.png); }
-#ZotpressMetaBox .ui-state-highlight .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_2e83ff_256x240.png); }
-#ZotpressMetaBox .ui-state-error .ui-icon, #ZotpressMetaBox .ui-state-error-text .ui-icon {background-image: url(/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_cd0a0a_256x240.png); }
+#ZotpressMetaBox .ui-icon { width: 16px; height: 16px; background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
+#ZotpressMetaBox .ui-widget-content .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
+#ZotpressMetaBox .ui-widget-header .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_222222_256x240.png); }
+#ZotpressMetaBox .ui-state-default .ui-icon { background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_888888_256x240.png); }
+#ZotpressMetaBox .ui-state-hover .ui-icon, #ZotpressMetaBox .ui-state-focus .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_454545_256x240.png); }
+#ZotpressMetaBox .ui-state-active .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_454545_256x240.png); }
+#ZotpressMetaBox .ui-state-highlight .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_2e83ff_256x240.png); }
+#ZotpressMetaBox .ui-state-error .ui-icon, #ZotpressMetaBox .ui-state-error-text .ui-icon {background-image: url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-icons_cd0a0a_256x240.png); }
 
 /* positioning */
 #ZotpressMetaBox .ui-icon-carat-1-n { background-position: 0 0; }
@@ -296,8 +296,8 @@
 #ZotpressMetaBox .ui-corner-all {  }
 
 /* Overlays */
-#ZotpressMetaBox .ui-widget-overlay { background: #aaaaaa url(/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
-#ZotpressMetaBox .ui-widget-shadow { margin: -8px 0 0 -8px; padding: 8px; background: #aaaaaa url(/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }/*
+#ZotpressMetaBox .ui-widget-overlay { background: #aaaaaa url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
+#ZotpressMetaBox .ui-widget-shadow { margin: -8px 0 0 -8px; padding: 8px; background: #aaaaaa url(/dgah-capstone/wp-content/plugins/zotpress/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }/*
  * jQuery UI Tabs 1.8.11
  *
  * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)

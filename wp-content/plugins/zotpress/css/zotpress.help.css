@@ -162,7 +162,7 @@ div.zp-Message p.version a:hover {
     color: #fff;
 }
 div.zp-Message p.version a#zp-Donate {
-    background: transparent url('/wp-content/plugins/zotpress/images/pp.png') no-repeat right center;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/pp.png') no-repeat right center;
     padding-right: 16px;
 }
 div.zp-Message p.version strong {
@@ -171,7 +171,7 @@ div.zp-Message p.version strong {
     text-transform: uppercase;
 }
 a.zp-FiveStar {
-    background: transparent url('/wp-content/plugins/zotpress/images/sprite.png') no-repeat -160px -1px;
+    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/sprite.png') no-repeat -160px -1px;
     color: #ffd900;
     padding-left: 95px;
 }
