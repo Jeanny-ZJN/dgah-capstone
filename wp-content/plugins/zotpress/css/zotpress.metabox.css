@@ -255,7 +255,7 @@ input#zp-ZotpressMetaBox-Search-Input {
     height: 22px;
 }
 input#zp-ZotpressMetaBox-Search-Input.ui-autocomplete-loading {
-    background: #fff url("/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif") no-repeat right center;
+    background: #fff url("https://jeanny-zjn.github.io/dgah-capstone/wp-content/plugins/zotpress/images/loading_default.gif") no-repeat right center;
 }
 /* input#zp-ZotpressMetaBox-Search-Input.help {
     color: #aaa;
@@ -556,7 +556,7 @@ div#ZotpressMetaBox.postbox div.inside {
 }
 
 div#ZotpressMetaBox h3.hndle span {
-    background: transparent url('/dgah-capstone/wp-content/plugins/zotpress/images/icon.png') no-repeat left center;
+    background: transparent url('https://jeanny-zjn.github.io/dgah-capstone/wp-content/plugins/zotpress/images/icon.png') no-repeat left center;
     padding-left: 22px;
 }
 
